@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Registro"],{"9b8c":function(e,n,r){"use strict";r.r(n);var t=function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("form-user")},o=[],s=r("6b93"),c={components:{FormUser:s["a"]}},u=c,l=r("2877"),a=Object(l["a"])(u,t,o,!1,null,null,null);n["default"]=a.exports}}]);
+//# sourceMappingURL=Registro.7fda7cb1.js.map
